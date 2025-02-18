@@ -19,16 +19,11 @@ pip install sympy numpy matplotlib scipy
 Clone the repository and run the script to visualize the motion of a **3-link pendulum** in real time.
 
 ```bash
-git clone https://github.com/your-username/3-link-pendulum.git
-cd 3-link-pendulum
-python pendulum_simulation.py
+git clone https://github.com/p4ntomath/Mechanics-n-link-pendulum.git
+cd Mechanics-n-link-pendulu
+python Assignment4Animation.py
 ```
 
-## 📷 Preview
-(Add a GIF or image of the animation here)
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
